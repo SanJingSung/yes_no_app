@@ -1,6 +1,6 @@
 # Yes-no-app
 
-![yes-no-App](https://github.com/SanJingSung/yes_no_app/lib\presentation\images\yes_no.png)
+![yes-no-App](https://github.com/SanJingSung/yes_no_app/lib/presentation/images/yes_no.png)
 
 **yes-no-app** es una aplicación móvil desarrollada en Flutter que te permite hacer preguntas de sí o no y recibir respuestas aleatorias acompañadas de un GIF correspondiente a la respuesta. La aplicación utiliza una API para obtener las respuestas y los GIFs, lo que la hace divertida y entretenida para tomar decisiones simples. Esta aplicación fue desarrollada siguiendo la especificación del curso Flutter - Móvil: De cero a experto - Edición 2023 creado por Fernando Herrera y posteado en Udemy.
 
